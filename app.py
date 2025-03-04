@@ -13,8 +13,8 @@ app = Flask(__name__)
 
 # Load both models
 models = {
-    "alphabet": keras.models.load_model("model12.h5"),
-    "words": keras.models.load_model("wordmodel1.h5")
+    "alphabet": keras.models.load_model("models\model12.h5"),
+    "words": keras.models.load_model("models\wordmodel1.h5")
 }
 
 current_model = "alphabet"
