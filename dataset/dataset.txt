@@ -1,3 +1,3 @@
 Alphabits and Numbers : https://www.kaggle.com/datasets/soumyakushwaha/indian-sign-language-dataset
 Real life words : https://data.mendeley.com/datasets/s6kgb6r3ss/2 
-Augmented images : https://drive.google.com/file/d/1ejyb_wxhznaoWfXnGjACh0Lfl-1H_TNA/view?usp=drive_link
+Augmented images of real life words : https://drive.google.com/file/d/1ejyb_wxhznaoWfXnGjACh0Lfl-1H_TNA/view?usp=drive_link
